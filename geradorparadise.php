@@ -1,8 +1,8 @@
 <?php
 // =================== CONFIGURAÇÕES ===================
-$offer_hash    = 'codigodaoferta'; // go.paradisepagbr.com/(seucodigodaoferta)
-$product_hash  = 'codigodoproduto'; // encontrado na aba do seu produto
-$access_token  = 'Seucodigoapi';
+$offer_hash    = 'wcll6mpm55'; // go.paradisepagbr.com/(seucodigodaoferta)
+$product_hash  = 'vejtlb5bvs'; // encontrado na aba do seu produto
+$access_token  = 'OWssbYMXZOUvkFe39U1EFQ2FHQwI6duLYCAXuy8nyPDP5eRWQLk1KHmkLZdD';
 $api_url       = 'https://api.paradisepagbr.com/api/public/v1/transactions?api_token=' . $access_token;
 $postback_url  = '/webhook/pix_webhook.php';
 
