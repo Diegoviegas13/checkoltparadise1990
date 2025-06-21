@@ -1,6 +1,6 @@
 <?php
 
-$api_token = 'codigoapi'; 
+$api_token = 'OWssbYMXZOUvkFe39U1EFQ2FHQwI6duLYCAXuy8nyPDP5eRWQLk1KHmkLZdD'; 
 $base_url = 'https://api.paradisepagbr.com/api/public/v1/transactions/';
 
 
